@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Khôi Nguyên</title>
+</head>
+<body>
+    <h1>Giới thiệu về câu lạc bộ Valorant</h1>
+    <p>Câu lạc bộ Valorant Marie Curie là câu lạc bộ dành cho những người đam mê bộ môn valorant đang theo học tại THPT Marie Curie Hà Đông</p>
+    <img src="https://cmsassets.rgpub.io/sanity/images/dsfx7636/news/679c94f1f9c45174f17149cba909bd4272a2476b-3571x2013.jpg" width="800">
+    <br>
+    <a href="https://www.facebook.com/VALORANT/?brand_redir=113545073440767">Link câu lạc bộ</a>
+    <h2>Hoạt động của câu lạc bộ</h2>
+    <ul>
+        <li>Bắn Valorant</li>
+        <li>Training</li>
+        <li>Ngủ</li>
+    </ul>
+    <h2>Thời gian sinh hoạt</h2>
+    <table border="1" cellpadding="10" cellspacing="0"> <!--Day la phan quan trong -->
+                <tr>
+                    <th>Ngày</th>
+                    <th>Hoạt động</th>
+                </tr>
+                <tr>
+                    <td>Thứ 2</td>
+                    <td>Trainning</td>
+                </tr>
+                <tr>
+                    <td>Thứ 3</td>
+                    <td>Tập chiến thuật</td>
+                </tr>
+                <tr>
+                    <td>Thứ 4</td>
+                    <td>Nghỉ</td>
+                </tr>
+                <tr>
+                    <td>Thứ 5</td>
+                    <td>Nghỉ</td>
+                </tr>
+                <tr>
+                    <td>Thứ 6</td>
+                    <td>Giao hữu</td>
+                </tr>
+                <tr>
+                    <td>Thứ 7</td>
+                    <td>Bắn giao hữu</td>
+                </tr>
+                <tr>
+                    <td>Chủ nhật</td>
+                    <td>Đi chơi</td>
+                </tr>
+        </table>
+</body>
+</html>
