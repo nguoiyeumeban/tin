@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minh Phương</title>
+</head>
+<body>
+    <h1>Giới thiệu về bản thân</h1>
+    <p>Tôi tên là Minh Phương. Học sinh lớp 12M5 trường THPT Marie Curie</p>
+    <h2>Hình ảnh bản thân</h2>
+    <img src="https://files.oaiusercontent.com/file-7YhxDjNH8FTCmW1qXw88me?se=2024-11-27T17%3A55%3A56Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D0e86a34b-b871-45c9-80f4-90c46280d93e.webp&sig=aQG1sAhlGMKBPU3SxN3fmYhzzllmsJqynQtW1LOPl%2BA%3D" alt="Hình ảnh trường THPT Marie Curie" width="800">
+     <h2>Một số sở thích của tôi</h2>
+    <ol>
+        <li>Nghe nhạc khi học tập</li>
+        <li>Xem phim vào buổi tối</li>
+        <li>Đọc sách những lúc rảnh</li>
+        <li>Đi chơi với gia đình, bạn bè</li>
+    </ol>
+    <h1>Bảng điểm học kỳ 1 của tôi</h1>
+    <table border="1" cellspacing="0" cellpadding="5">
+        <tr>
+            <th>Môn học</th>
+            <th>Điểm hệ số 1</th>
+            <th>Điểm giữa kỳ</th>
+            <th>Điểm cuối kỳ</th>
+        </tr>
+        <tr>
+            <td>Toán</td>
+            <td>8, 8, 9, 8</td>
+            <td>9.5</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Văn</td>
+            <td>7, 6.5, 7.5, 8</td>
+            <td>8.5</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <td>Anh</td>
+            <td>9, 8.5, 9, 9</td>
+            <td>9.5</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <td>Vật Lý</td>
+            <td>7, 8, 8.5, 7.5</td>
+            <td>8</td>
+            <td>8.5</td>
+        </tr>
+        <tr>
+            <td>Hóa Học</td>
+            <td>8, 8.5, 9, 8</td>
+            <td>9.5</td>
+            <td>8.5</td>
+        </tr>
+        <tr>
+            <td>Sinh học</td>
+            <td>9.5, 7, 8, 8</td>
+            <td>8.5</td>
+            <td>9</td>
+        </tr>
+    </table>
+    <p><a href="https://www.facebook.com/mp.pham.7359" target="_blank">Nhấn vào đây để dẫn tới facebook của tôi</a>.</p>
+    </body>
+</html>
