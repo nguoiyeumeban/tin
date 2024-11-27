@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Minh Phương</title>
+</head>
+<body>
+    <h1>Giới thiệu về Trường THPT Marie Curie</h1>
+    <p>Trường THPT Marie Curie Hà Nội là một trong những ngôi trường tư thục uy tín hàng đầu tại Thủ đô. Với cơ sở vật chất khang trang và các hoạt động ngoại khóa phong phú, THPT Marie Curie không chỉ giúp học sinh phát triển kiến thức mà còn bồi dưỡng kỹ năng sống và nhân cách. Đây là nơi ươm mầm những thế hệ học sinh tài năng, sáng tạo và tự tin bước vào tương lai.</p>
+    <h2>Hình ảnh trường</h2>
+    <img src="https://mariecuriehanoischool.com/images/GIAOVU/2023-2024/cover-my-dinh-01.jpg" alt="Hình ảnh trường THPT Marie Curie" width="800">
+    <h2>Video giới thiệu</h2>
+    <iframe width="800" height="400" src="https://www.youtube.com/embed/0K8hy8FZcs0?si=A-_gBNxCvDQBJfmZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>Điểm nổi bật của trường</h2>
+    <ol>
+        <li>Đội ngũ giáo viên chất lương, tận tâm</li>
+        <li>Cơ sở vật chất hiện đại, tiên tiến</li>
+        <li>Môi trường học tập lành mạnh</li>
+        <li>Trường có nhiều hoạt động ngoại khóa</li>
+    </ol>
+    <p>Một số thông tin thêm có thể tham khảo tại <a href="https://mariecuriehanoischool.com" target="_blank">trang web chính thức của trường</a>.</p>
+</body>
+</html>
