@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Nguyễn Khôi Nguyên</title>
+</head>
+<body>
+    <h1>Giới thiệu về Cristiano Ronaldo</h1>
+    <p>Cristiano Ronaldo (sinh ngày 5 tháng 2 năm 1985) là một cầu thủ bóng đá chuyên nghiệp người Bồ Đào Nha hiện đang thi đấu ở vị trí tiền đạo cho câu lạc bộ Al-Nassr của Saudi Arabia và là đội trưởng của đội tuyển bóng đá quốc gia Bồ Đào Nha.</p>
+    <h2>Hình ảnh nam cầu thủ</h2>
+    <img src="https://th.bing.com/th/id/R.13460049d31d2ce6a65c24250880b3f6?rik=GSO5ViGcH3%2b8bQ&riu=http%3a%2f%2fcr7wallpapers.com%2fwp-content%2fuploads%2f2014%2f12%2fCristiano-Ronaldo-Real-Madrid-wallpaper-2.jpg&ehk=KsYVdoO%2b0DghaoeqmFKfDyGbN6jjicwWsLS7jm2DBlY%3d&risl=&pid=ImgRaw&r=0" alt="Hình ảnh Cristiano Ronaldo" width="800">
+    <h2>Video giới thiệu</h2>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bfmCzIru4Nk?si=JAk-BzAlB7vhfypG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>Thành tích nổi bật</h2>
+    <ol>
+        <li>Cầu thủ ghi bàn nhiều nhất lịch sử bóng đá thế giới</li>
+        <li>Nhà vô địch Euro 2016</li>
+        <li>5 Quả bóng vàng</li>
+        <li>Vua phá lưới tại Eufa Champion league</li>
+    </ol>
+    <p>Trang cá nhân của Ronaldo <a href="https://www.facebook.com/Cristiano" target="_blank">Cristiano Ronaldo</a>.</p>
+</body>
+</html>
